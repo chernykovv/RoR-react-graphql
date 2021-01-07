@@ -1,2 +1,1 @@
-# RoR-react-graphql
-GraphQL testing between react and RoR
+GraphQL implementation with Ruby on Rails and ReactJS
